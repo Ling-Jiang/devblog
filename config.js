@@ -11,5 +11,5 @@ module.exports = {
     github: 'https://github.com/Ling-Jiang',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://lingjiang.info',
 };
