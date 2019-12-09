@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Site', // Required
+  title: 'Home', // Required
   author: 'Ling Jiang', // Required
   description: 'Information Systems (IS) Researcher',
   primaryColor: '#3498db', // Required
